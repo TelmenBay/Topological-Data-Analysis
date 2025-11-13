@@ -6,16 +6,23 @@ Our goal is to improve **market prediction accuracy** by integrating geometric i
 
 ---
 
+<img width="1041" height="743" alt="Screenshot 2025-11-12 at 9 35 51 PM" src="https://github.com/user-attachments/assets/be910e40-7541-4b89-b364-17f4528d5379" />
+
+
 ## Background
 
 ### Topological Data Analysis (TDA)
 **TDA** is a mathematical framework that studies the *shape* and *structure* of data rather than relying only on statistical summaries.  
 It captures **persistent topological features**—like clusters, loops, and voids—that represent the underlying geometry of the dataset.  
 This helps distinguish meaningful structures from noise across multiple scales.
+<img width="1170" height="358" alt="Screenshot 2025-10-29 at 3 37 27 PM" src="https://github.com/user-attachments/assets/e27fcd9b-a55f-4cd3-ad77-15a574888f42" />
+
 
 ### N-BEATS (Neural Basis Expansion Analysis for Time Series Forecasting)
 **N-BEATS** is a deep neural architecture designed specifically for **interpretable time series forecasting**.  
 It models complex temporal patterns using stacks of fully connected blocks that decompose data into trend and seasonal components.
+<img width="759" height="440" alt="Screenshot 2025-10-29 at 3 57 45 PM" src="https://github.com/user-attachments/assets/b645717f-f37e-4cc5-9497-443db1bade20" />
+
 
 #### Key Features
 - **Interpretability:** Identifies which components of the data drive predictions.  
